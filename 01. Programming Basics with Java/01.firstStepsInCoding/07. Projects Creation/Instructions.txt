@@ -1,0 +1,15 @@
+Write a program that calculates how many hours it will take an architect to prepare the designs of several construction sites. It takes three hours to prepare one project.
+
+Login
+
+2 lines are read from the console:
+
+1. The name of the architect - text
+
+2. Number of projects to prepare - an integer in the interval [0 … 100]
+
+Exit
+
+The console prints:
+
+· "The architect {name of architect} will need {necessary hours} hours to complete {number of projects} project/s."
