@@ -1,0 +1,1 @@
+To write a console program that inputs two integers (the sides of a rectangle a and b) and calculates the face of a rectangle with these sides.
